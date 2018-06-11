@@ -1,7 +1,7 @@
 <?php
  
 date_default_timezone_set('Europe/Amsterdam');
-setlocale(LC_MONETARY, 'nl_NL');
+setlocale(LC_MONETARY, 'nl_NL'); //doet dit iets?
  
 // File setup
 $dropboxPath = "/home/susan/Dropbox/DFadmin/";
